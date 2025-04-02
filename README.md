@@ -17,8 +17,8 @@ A fun and interactive balloon inflating and popping game built with **Phaser 3**
 ## Installation & Setup ⚙️
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/Balloon-Burst-Game.git
-   cd Balloon-Burst-Game
+   git clone https://github.com/Dipesh-Arwat/IDZ-Digital-Task.git
+   cd IDZ-Digital-Task
    ```
 2. **Install dependencies** (if needed for local server)
    ```sh
@@ -55,9 +55,6 @@ A fun and interactive balloon inflating and popping game built with **Phaser 3**
 
 ## Contributing 🤝
 If you have suggestions or improvements, feel free to fork this repository and submit a pull request!
-
-## License 📜
-This project is licensed under the **MIT License**.
 
 ---
 Made with ❤️ using Phaser 3.
